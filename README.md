@@ -22,8 +22,9 @@ materials =
 - 4 : wood
 - 5 : log
 
-removing materials =
-alt = remove material
+removing materials:
+
+- alt : remove material
 
 ### how to install Vite?
 

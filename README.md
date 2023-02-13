@@ -14,7 +14,7 @@ movements:
 - d : side
 - space : jump
 
-materials =
+materials:
 
 - 1 : dirt
 - 2 : grass

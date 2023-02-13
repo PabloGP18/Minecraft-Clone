@@ -1,4 +1,4 @@
-##Minecraft Clone
+# Minecraft-Clone
 
 ### Info
 
@@ -14,7 +14,7 @@ movements:
 - d : side
 - space : jump
 
-materials:
+materials (keyboard number):
 
 - 1 : dirt
 - 2 : grass
@@ -50,5 +50,3 @@ npm install zustand -E
 
 nanoid is a package used for creating random id's:
 npm install nanoid -E
-
-# Minecraft-Clone

@@ -26,7 +26,7 @@ removing materials:
 
 - alt : remove material
 
-### how to install Vite?
+### how to install React using Vite?
 
 npm create-vite@latest
 npm install

@@ -6,19 +6,21 @@ Just a basic Minecraft clone from a tutorial where you can move around, select a
 
 keyboard commands:
 
-movements =
-w = forward
-s = backward
-a = left
-d = side
-space = jump
+movements:
+
+- w : forward
+- s : backward
+- a : left
+- d : side
+- space : jump
 
 materials =
-1 = dirt
-2 = grass
-3 = glass
-4 = wood
-5 = log
+
+- 1 : dirt
+- 2 : grass
+- 3 : glass
+- 4 : wood
+- 5 : log
 
 removing materials =
 alt = remove material
@@ -47,4 +49,5 @@ npm install zustand -E
 
 nanoid is a package used for creating random id's:
 npm install nanoid -E
+
 # Minecraft-Clone

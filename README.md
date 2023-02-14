@@ -2,7 +2,7 @@
 
 ### Info
 
-Just a basic Minecraft clone from a tutorial where you can move around, select a type of material and remove it.
+Just a basic Minecraft clone (with React & Three.js) from a tutorial where you can move around, select a type of material and remove it.
 
 #### keyboard commands:
 

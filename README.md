@@ -28,25 +28,27 @@ removing materials:
 
 ### how to install React using Vite?
 
-npm create-vite@latest
-npm install
-npm run dev
+- npm create-vite@latest
+- npm install
+- npm run dev
 
 ### Installing linter
 
-npm install standard -D
+- npm install standard -D
 
 ### Installing Three.js
 
-npm install three -E
-npm install @react-three/fiber @react-three/drei @react-three/cannon -E
+- npm install three -E
+- npm install @react-three/fiber @react-three/drei @react-three/cannon -E
 
 ### Installing Zustand
 
 To manage the global state of the application:
-npm install zustand -E
+
+- npm install zustand -E
 
 ### Installing nanoid
 
 nanoid is a package used for creating random id's:
-npm install nanoid -E
+
+- npm install nanoid -E

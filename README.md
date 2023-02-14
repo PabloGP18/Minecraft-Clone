@@ -4,6 +4,7 @@
 
 Just a basic Minecraft clone from a tutorial where you can move around, select a type of material and remove it.
 
+For the people who are going to clone the repository and try it out for themselves
 keyboard commands:
 
 movements:

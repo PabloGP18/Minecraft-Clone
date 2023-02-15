@@ -18,6 +18,7 @@ movements:
 
 materials (keyboard number):
 
+- pointer: right mouse click to put material
 - 1 : dirt
 - 2 : grass
 - 3 : glass
@@ -26,7 +27,7 @@ materials (keyboard number):
 
 removing materials:
 
-- alt : remove material
+- pointer & alt : remove material & right mouse click
 
 ### how to install React using Vite?
 

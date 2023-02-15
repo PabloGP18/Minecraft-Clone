@@ -4,9 +4,9 @@
 
 Just a basic Minecraft clone (with React & Three.js) from a tutorial where you can move around, select a type of material and remove it.
 
-#### keyboard commands:
+#### Website & keyboard commands:
 
-For the people who are going to clone the repository and try it out for themselves
+For the people who want to try it out for themselves: [basic-minecraft-clone.netlify.app](https://basic-minecraft-clone.netlify.app/)
 
 movements:
 

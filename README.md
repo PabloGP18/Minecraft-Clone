@@ -27,7 +27,7 @@ materials (keyboard number):
 
 removing materials:
 
-- pointer & alt : remove material & right mouse click
+- pointer & alt : alt and right mouse click to remove material
 
 ### how to install React using Vite?
 
